@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/heart-disease-prediction.git
+    git clone https://github.com/Avik816/heart-disease-prediction.git
     cd heart-disease-prediction
     ```
 
