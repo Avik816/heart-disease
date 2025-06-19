@@ -90,12 +90,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🧑‍💻 Author
-
-**Your Name**  
-Email: your.email@example.com
-
----
 
 ## 📜 License
 
